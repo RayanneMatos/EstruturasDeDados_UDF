@@ -91,7 +91,7 @@ A estrutura de dados que estamos utilizando é a lista de dicionários. Uma list
 
 Exemplo computacional disponível em: ../Introdução/idade_media.py
 
-Referências:
+**Referências:**
 Santos, F., Silva, L., & Pereira, M. (2018). Introdução à Ciência da Computação. São Paulo: Editora Acadêmica.
 Turban, E., Volonino, L., & Wood, G. (2011). Information Technology for Management. Wiley.
 Davenport, T. H., & Prusak, L. (1998). Working Knowledge: How Organizations Manage What They Know. Harvard Business Press.
