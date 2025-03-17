@@ -15,7 +15,7 @@ EstruturasDeDados_UDF/
 │── Aplicacao/
 │   ├── balanced-parentheses.py
 │   ├── Expressao-balanceada.m
-│   ├── imposto-renda.rmd
+│   ├── imposto-renda.md
 │   ├── Imposto-Rendu.py
 │
 │── Conceitos-Fundamentais/
@@ -23,7 +23,7 @@ EstruturasDeDados_UDF/
 │   ├── Alocacao-Estatica/
 │   ├── Dados/
 │   ├── Memória/
-│   ├── conceitos.mo
+│   ├── conceitos.md
 │   ├── relacao.md
 │
 │── Definicao-Importancia/
@@ -88,9 +88,9 @@ node Estruturas-Lineares/Filas/exemplo.js
 ```
 
 # Referências
-CARVALHO, Thiago Leite e. Estruturas de Dados: Domine as práticas essenciais em C, Java, C#, Python e JavaScript. 1. ed. São Paulo: Novatec, 2020. ISBN 978-85-7522-780-6.
-GEEKSFORGEEKS. Alocação de Memória em C/C++. Disponível em: https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c/. Acesso em: 16 mar. 2025.
-MOZILLA FOUNDATION. Documentação do JavaScript sobre estruturas de dados. Disponível em: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures. Acesso em: 16 mar. 2025.
-PIVA JUNIOR, Dilermando; NAKAMITI, Gilberto Shigueo; FREITAS, Ricardo Luís de; XASTRE, Leandro Alonso; BIANCHI, Francisco. Estrutura de dados e técnicas de programação. 1. ed. Rio de Janeiro: Elsevier, 2014. ISBN 978-85-352-7437-0. Disponível em: https://www.kufunda.net/publicdocs/Estrutura%20de%20Dados%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o%20(Francisco%20Bianchi).pdf. Acesso em: 16 mar. 2025.
-Python Software Foundation. Documentação do Python sobre gerenciamento de memória. Disponível em: https://docs.python.org/. Acesso em: 16 mar. 2025.
-Python Software Foundation. Documentação do Python sobre estruturas de dados. Disponível em: https://docs.python.org/3/tutorial/datastructures.html. Acesso em: 16 mar. 2025.
+- CARVALHO, Thiago Leite e. Estruturas de Dados: Domine as práticas essenciais em C, Java, C#, Python e JavaScript. 1. ed. São Paulo: Novatec, 2020. ISBN 978-85-7522-780-6.
+- GEEKSFORGEEKS. Alocação de Memória em C/C++. Disponível em: https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c/. Acesso em: 16 mar. 2025.
+- MOZILLA FOUNDATION. Documentação do JavaScript sobre estruturas de dados. Disponível em: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures. Acesso em: 16 mar. 2025.
+- PIVA JUNIOR, Dilermando; NAKAMITI, Gilberto Shigueo; FREITAS, Ricardo Luís de; XASTRE, Leandro Alonso; BIANCHI, Francisco. Estrutura de dados e técnicas de programação. 1. ed. Rio de Janeiro: Elsevier, 2014. ISBN 978-85-352-7437-0. Disponível em: https://www.kufunda.net/publicdocs/Estrutura%20de%20Dados%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o%20(Francisco%20Bianchi).pdf. Acesso em: 16 mar. 2025.
+- Python Software Foundation. Documentação do Python sobre gerenciamento de memória. Disponível em: https://docs.python.org/. Acesso em: 16 mar. 2025.
+- Python Software Foundation. Documentação do Python sobre estruturas de dados. Disponível em: https://docs.python.org/3/tutorial/datastructures.html. Acesso em: 16 mar. 2025.
