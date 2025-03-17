@@ -73,8 +73,3 @@ numero = 10  # A memória para 'numero' é alocada estaticamente no momento da c
 > Tipos de Dados definem que tipo de valor as variáveis podem armazenar e quanto espaço de memória será necessário.
 > Alocação de Memória é o processo de reservar espaço para os dados das variáveis, seja de maneira estática (fixa e em tempo de compilação) ou dinâmica (adaptável e em tempo de execução).
 
-
-5. Referências
-"Estruturas de Dados e Algoritmos em C" de Adam Drozdek.
-"Python Documentation - Memory Management" https://docs.python.org/
-"Alocação de Memória em C/C++" https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c/

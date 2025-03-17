@@ -41,8 +41,3 @@ Após o uso da memória alocada, a função free() é chamada para liberar a mem
     - Desempenho: A alocação e desalocação dinâmica podem ser mais lentas do que a alocação estática, pois envolvem chamadas de sistema para obter e liberar memória.
 
 **A alocação dinâmica de memória é uma técnica poderosa que permite maior flexibilidade e eficiência no uso da memória durante a execução de um programa. No entanto, ela exige cuidado do programador para garantir que a memória seja alocada corretamente e liberada quando não for mais necessária.**
-
-### Referências
-"Estruturas de Dados e Algoritmos em C" de Adam Drozdek.
-"Python Documentation - Memory Management" https://docs.python.org/
-"Alocação de Memória em C/C++" https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c/
