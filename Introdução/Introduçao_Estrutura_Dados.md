@@ -90,9 +90,3 @@ A informação gerada é o valor da idade média, que tem significado prático.
 A estrutura de dados que estamos utilizando é a lista de dicionários. Uma lista é uma estrutura de dados que permite armazenar elementos em uma ordem específica, e os dicionários permitem associar cada dado a uma chave (ex: "nome", "idade", "email"). Portanto, a lista de dicionários é a estrutura de dados que organiza os dados dos usuários de forma eficiente, permitindo acessar, modificar e manipular as informações conforme necessário.
 
 Exemplo computacional disponível em: ../Introdução/idade_media.py
-
-**Referências:**
-Santos, F., Silva, L., & Pereira, M. (2018). Introdução à Ciência da Computação. São Paulo: Editora Acadêmica.
-Turban, E., Volonino, L., & Wood, G. (2011). Information Technology for Management. Wiley.
-Davenport, T. H., & Prusak, L. (1998). Working Knowledge: How Organizations Manage What They Know. Harvard Business Press.
-Knuth, D. E. (1997). The Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd ed.). Addison-Wesley.

@@ -71,7 +71,3 @@ Enquanto as estruturas lineares são ideais para armazenar e acessar dados de ma
     Um índice telefônico associa nomes a números de telefone. Em vez de procurar em uma lista gigante, você usa a letra inicial do nome para encontrar rapidamente a pessoa.
     Assim funciona uma tabela hash, onde um algoritmo organiza os dados para acessá-los rapidamente, sem precisar percorrer toda a lista
 
-## Referências:
-
-Knuth, D. E. (1997). The Art of Computer Programming. Addison-Wesley.
-Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms. MIT Press.

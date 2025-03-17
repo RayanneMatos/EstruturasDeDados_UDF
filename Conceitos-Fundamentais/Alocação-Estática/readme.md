@@ -48,6 +48,3 @@ int main() {
 # Desvantagens da Alocação Estática:
     - Falta de flexibilidade: Não é possível alterar o tamanho da memória alocada durante a execução do programa.
     - Desperdício de memória: Se o tamanho da variável não for corretamente estimado, pode ocorrer desperdício de memória.
-
-# Referências
-PIVA JUNIOR, Dilermando; NAKAMITI, Gilberto Shigueo; FREITAS, Ricardo Luís de; XASTRE, Leandro Alonso; BIANCHI, Francisco. Estrutura de dados e técnicas de programação. 1. ed. Rio de Janeiro: Elsevier, 2014. ISBN 978-85-352-7437-0. Disponível em: https://www.kufunda.net/publicdocs/Estrutura%20de%20Dados%20e%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o%20(Francisco%20Bianchi).pdf. Acesso em: 16 mar. 2025.
