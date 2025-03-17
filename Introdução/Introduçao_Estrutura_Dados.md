@@ -6,7 +6,13 @@ Antes de adentrarmos no estudo das estruturas de dados, é importante dar um pas
 
 **Dados**, segundo [Turban et al., 2011], são fatos brutos, números ou sinais que, isoladamente, não carregam significado. Eles são a matéria-prima para a criação de informações.
 
+![dados](https://github.com/user-attachments/assets/1876b587-a9f3-409a-9cc8-08939e62b8a7)
+
+
 **Informações**, de acordo com [Davenport & Prusak, 1998], são dados processados e organizados de maneira que adquiram significado e utilidade, fornecendo contexto para a tomada de decisões.
+
+![informação](https://github.com/user-attachments/assets/16e31834-67da-4777-b588-47a1a3ae608b)
+
 
 **Estruturas**, de acordo com [Santos et al., 2018], referem-se à organização e arranjo sistemático de elementos, com o objetivo de facilitar o acesso, armazenamento e manipulação de dados de maneira eficiente.
 
@@ -14,10 +20,10 @@ Antes de adentrarmos no estudo das estruturas de dados, é importante dar um pas
 ![ESTRUTURA DE DADOS](https://github.com/user-attachments/assets/3f92f636-ad40-445a-9d24-674e55d42d70)
 
 
-
-
-
 **Estrutura de dados**, de acordo com [Knuth, 1997], é uma maneira de organizar e armazenar dados de forma que possamos realizar operações eficientes sobre eles, como buscas, inserções, atualizações e exclusões. A escolha adequada de uma estrutura de dados impacta diretamente a performance de algoritmos e sistemas computacionais.
+
+![ESTRUTURA DE DADOS](https://github.com/user-attachments/assets/f80a65c2-fbdc-4bed-8fc3-853064797d6e)
+
 
 ## Analogia de Pilha de Peças de Lego:
 
@@ -30,6 +36,9 @@ Por fim, ao observar essa organização, você consegue perceber padrões, como,
 Estrutura de dados, nesse exemplo, seria o método pelo qual você organiza essas peças de Lego, como uma pilha, onde o acesso à peça mais recente é o mais fácil. Ou seja, você pode pegar a peça do topo da pilha e adicionar novas peças no topo, facilitando a manipulação das peças em um projeto.
 
 Nesse exemplo, a pilha de peças de Lego serve como uma analogia para entender como dados podem ser organizados e transformados em informações através de uma estrutura. A estrutura de dados (a pilha, neste caso) é o mecanismo que permite que você trabalhe de forma eficiente com os dados.
+
+![ESTRUTURA DE DADOS (1)](https://github.com/user-attachments/assets/971ffde9-d3a5-4d40-bca2-1bd18c174b63)
+
 
 ## Exemplo de problema do mundo Real com solução usando Estrutura de Dados
 Imagine que você está em um banco e precisa realizar um depósito. A maneira como o banco organiza os clientes que esperam para serem atendidos envolve esses conceitos:
@@ -97,3 +106,7 @@ A informação gerada é o valor da idade média, que tem significado prático.
 A estrutura de dados que estamos utilizando é a lista de dicionários. Uma lista é uma estrutura de dados que permite armazenar elementos em uma ordem específica, e os dicionários permitem associar cada dado a uma chave (ex: "nome", "idade", "email"). Portanto, a lista de dicionários é a estrutura de dados que organiza os dados dos usuários de forma eficiente, permitindo acessar, modificar e manipular as informações conforme necessário.
 
 Exemplo computacional disponível em: ../Introdução/idade_media.py
+
+
+![ESTRUTURA DE DADOS (2)](https://github.com/user-attachments/assets/e1f2ae0b-7e9f-44ff-a769-0c26849571a7)
+
