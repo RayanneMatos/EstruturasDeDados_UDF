@@ -20,4 +20,4 @@ let soma = "10" + 5;  // Resultado: "105" (string)
 ```
 
 
-![alt text](<ESTRUTURA DE DADOS (3).png>)
+![alt text](<images/ESTRUTURA DE DADOS (3).png>)

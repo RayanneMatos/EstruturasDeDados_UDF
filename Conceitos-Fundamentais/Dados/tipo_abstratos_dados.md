@@ -1,7 +1,7 @@
 # Tipos Abstratos de Dados (TAD)
 Os TADs são modelos estruturados para armazenar e manipular dados, sem se preocupar com detalhes da implementação.
 
-![alt text](16.png)
+![alt text](images/16.png)
 
 ## (A) Estruturas Lineares
 Os elementos são organizados em sequência:
@@ -10,7 +10,7 @@ Listas → Coleção ordenada de elementos.
 Filas (Queue) → FIFO (First In, First Out).
 Pilhas (Stack) → LIFO (Last In, First Out).
 
-![alt text](17.png)
+![alt text](images/17.png)
 
 ## (B) Estruturas Hierárquicas
 Os elementos têm relações de pai-filho:
@@ -18,7 +18,7 @@ Os elementos têm relações de pai-filho:
 Árvores → Estruturas onde cada nó pode ter múltiplos filhos.
 Grafos → Conjuntos de nós conectados por arestas.
 
-![alt text](18.png)
+![alt text](images/18.png)
 
 
 ##  Mapas (Dicionários, Tabelas de Espalhamento)
@@ -39,7 +39,7 @@ dados.set("nome", "Carlos");
 console.log(dados.get("nome")); // Carlos
 ```
 
-![alt text](20.png)
+![alt text](images/20.png)
 
 # (D) Conjuntos
 Armazenam elementos únicos, sem duplicatas.
@@ -49,4 +49,4 @@ Exemplo em Python:
 conjunto = {1, 2, 3, 4, 4}  # {1, 2, 3, 4}
 ```
 
-![alt text](21.png)
+![alt text](images/21.png)

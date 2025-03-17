@@ -1,7 +1,7 @@
 # Tipos de Dados Primitivos
 Os tipos primitivos são aqueles fornecidos pela linguagem de programação para armazenar valores simples.
 
-![alt text](11.png)
+![alt text](images/11.png)
 
 ## Numéricos
 Armazenam números e podem ser inteiros ou de ponto flutuante:
@@ -18,7 +18,7 @@ byte (Java) → Para valores pequenos (-128 a 127).
 float, double (C, Java, Python) → Para números com casas decimais.
 Exemplo: double salario = 2500.75;
 
-![alt text](12.png)
+![alt text](images/12.png)
 
 
 ### Lógicos (Booleanos)
@@ -29,7 +29,7 @@ Em C: int x = 1; (true) e int y = 0; (false).
 Em Python: bool ativo = True.
 Em JavaScript: let ligado = false;.
 
-![alt text](14.png)
+![alt text](images/14.png)
 
 ### Literais (Textuais ou Caracteres)
 Armazenam textos ou caracteres únicos:
@@ -42,4 +42,4 @@ Em C, strings são arrays de char:
 char nome[] = "Carlos";
 ```` 
 
-![alt text](13-1.png)
+![alt text](images/13-1.png)

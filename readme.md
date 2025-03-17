@@ -21,6 +21,8 @@ EstruturasDeDados_UDF/
 │── Conceitos-Fundamentais/
 │   ├── Alocacao-Dinamica/
 │   ├── Alocacao-Estatica/
+│   ├── Dados/
+│   ├── Memória/
 │   ├── conceitos.mo
 │   ├── relacao.md
 │
