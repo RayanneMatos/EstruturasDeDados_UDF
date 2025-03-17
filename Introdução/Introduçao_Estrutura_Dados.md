@@ -10,6 +10,13 @@ Antes de adentrarmos no estudo das estruturas de dados, é importante dar um pas
 
 **Estruturas**, de acordo com [Santos et al., 2018], referem-se à organização e arranjo sistemático de elementos, com o objetivo de facilitar o acesso, armazenamento e manipulação de dados de maneira eficiente.
 
+
+![ESTRUTURA DE DADOS](https://github.com/user-attachments/assets/3f92f636-ad40-445a-9d24-674e55d42d70)
+
+
+
+
+
 **Estrutura de dados**, de acordo com [Knuth, 1997], é uma maneira de organizar e armazenar dados de forma que possamos realizar operações eficientes sobre eles, como buscas, inserções, atualizações e exclusões. A escolha adequada de uma estrutura de dados impacta diretamente a performance de algoritmos e sistemas computacionais.
 
 ## Analogia de Pilha de Peças de Lego:
