@@ -68,7 +68,7 @@ Para rodar os exemplos disponíveis no repositório, siga os passos abaixo:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/EstruturasDeDados_UDF.git
+git clone https://github.com/RayanneMatos/EstruturasDeDados_UDF.git
 
 # Acesse a pasta do projeto
 cd EstruturasDeDados_UDF
