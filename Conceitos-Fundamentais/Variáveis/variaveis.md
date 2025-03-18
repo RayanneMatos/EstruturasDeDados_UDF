@@ -1,4 +1,4 @@
-# O QUE É UMA VARIÁVEL
+# O QUE É UMA VARIÁVEL?
 
 Uma variável é um conceito fundamental na programação que pode ser entendido como um local de armazenamento na memória do computador, onde podemos armazenar dados temporários que podem ser modificados durante a execução de um programa. Cada variável tem um nome único (identificador) e está associada a um tipo de dado, como números, texto, listas, etc. O valor armazenado em uma variável pode ser alterado ao longo do tempo, conforme o programa avança.
 
